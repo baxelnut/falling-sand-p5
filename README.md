@@ -45,6 +45,13 @@ cd falling-sand-simulator
 
 Just open `index.html` in your browser. Since `p5.js` runs client-side, no extra setup is needed!  
 
+Or if you're using vite just run:
+
+```sh
+cd falling-sand-simulator
+npm run dev
+```
+
 ### 3️⃣ Modify & Experiment  
 
 Tweak `particle.js` to change the physics, color, or behavior of the sand.  
