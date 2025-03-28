@@ -30,6 +30,7 @@ This simulator uses a grid-based system where each pixel represents a sand parti
 1. Clone the Repo
 
 git clone https://github.com/your-username/falling-sand-simulator.git
+
 cd falling-sand-simulator
 
 2. Open in Browser
