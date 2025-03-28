@@ -37,8 +37,8 @@ This simulator uses a **grid-based system** where each pixel represents a sand p
 ### 1️⃣ Clone the Repo  
 
 ```sh
-git clone https://github.com/your-username/falling-sand-simulator.git
-cd falling-sand-simulator
+git clone https://github.com/baxelnut/falling-sand-p5.git
+cd falling-sand-p5
 ```
 
 ### 2️⃣ Open in Browser  
@@ -48,7 +48,8 @@ Just open `index.html` in your browser. Since `p5.js` runs client-side, no extra
 Or if you're using vite just run:
 
 ```sh
-cd falling-sand-simulator
+cd falling-sand-p5
+npm install
 npm run dev
 ```
 
