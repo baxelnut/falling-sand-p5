@@ -3,10 +3,10 @@
 This is a Falling Sand Simulator built with p5.js. It mimics real-world sand physics where particles fall, stack, and interact in a fluid-like motion. You can add different materials, change gravity, and play with the physics engine to create unique behaviors.
 
 **🌟 Features**
-✅ Particles fall, stack, and settle naturally.
-✅ Mouse Interaction – Click to add sand at different positions.
-✅ Customizable Elements – Modify sand properties like size, gravity, and color.
-✅ p5.js Powered – Runs smoothly in the browser with minimal dependencies.
+1. Particles fall, stack, and settle naturally.
+2. Mouse Interaction – Click to add sand at different positions.
+3. Customizable Elements – Modify sand properties like size, gravity, and color.
+4. p5.js Powered – Runs smoothly in the browser with minimal dependencies.
 
 
 **🔹 How It Works**
@@ -26,8 +26,8 @@ This simulator uses a grid-based system where each pixel represents a sand parti
 _git clone https://github.com/your-username/falling-sand-simulator.git
 cd falling-sand-simulator_
 
-3. 2️⃣ Open in Browser
+2. Open in Browser
 Just open index.html in your browser. Since p5.js runs client-side, no extra setup is needed!
 
-3️⃣ Modify & Experiment
+3️. Modify & Experiment
 Tweak particle.js to change the physics, color, or behavior of the sand.
