@@ -2,6 +2,9 @@
 
 This is a **Falling Sand Simulator** built with `p5.js`. It mimics real-world sand physics where particles fall, stack, and interact in a fluid-like motion. You can add different materials, change gravity, and play with the physics engine to create unique behaviors.  
 
+![Falling Sand Preview](https://raw.githubusercontent.com/baxelnut/falling-sand-p5/refs/heads/master/public/p5_sandfall_preview.png)
+
+
 ---
 
 ## 🌟 Features  
